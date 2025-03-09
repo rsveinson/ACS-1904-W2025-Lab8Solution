@@ -14,7 +14,7 @@ public class CatDebugXML{
     
     // constructors
     /* added the no-arg constructor
-     * no-arg constructor is required by
+     * no-arg constructor is required
      * without it the .xml file is empty of Cat objects
      */
     public CatDebugXML(){
