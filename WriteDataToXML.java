@@ -20,6 +20,7 @@ public class WriteDataToXML {
       
       System.out.println("data written to file.");
       
+      // to write the array of ints all at once
       //encoder.writeObject(myData);    
       encoder.close();
       
