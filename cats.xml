@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.4.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Cat">
+    <void property="age">
+     <int>17</int>
+    </void>
+    <void property="name">
+     <string>Emerson</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Cat">
+    <void property="age">
+     <int>1</int>
+    </void>
+    <void property="name">
+     <string>Rincewind</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Cat">
+    <void property="age">
+     <int>16</int>
+    </void>
+    <void property="name">
+     <string>Alax</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
