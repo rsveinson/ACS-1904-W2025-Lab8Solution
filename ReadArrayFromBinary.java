@@ -10,9 +10,9 @@ import java.io.FileNotFoundException;
 
 public class ReadArrayFromBinary{
     public static void main(String[] args)throws FileNotFoundException, IOException, ClassNotFoundException {
-        char[] initials = new char[4];
-        String[] name = new String[4];
-        int[] age = new int[4]; 
+        char[] initials = new char[10];
+        String[] name = new String[10];
+        int[] age = new int[10]; 
         
         ObjectInputStream oIn = new ObjectInputStream( new FileInputStream("Lab8.ser"));
         
